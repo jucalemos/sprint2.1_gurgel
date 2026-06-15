@@ -75,6 +75,8 @@ Distribuição de Potência
 Relatório e Monitoramento
 ```
 
+![Fluxo Visual do Sistema]
+
 ## Fluxo de Funcionamento
 
 1. O sistema gera uma quantidade simulada de energia solar.
