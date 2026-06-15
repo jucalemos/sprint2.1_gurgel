@@ -141,11 +141,13 @@ O projeto representa uma prova de conceito funcional e um primeiro passo para ap
 
 ### Vídeo de Apresentação
 
-------------LINK DO VÍDEO----------------
+https://youtu.be/DAt07ansOv0
 
 ### Slides da Apresentação
 
 https://canva.link/085hc6r3zxnjtu9
+
+https://canva.link/cal60z3qbt560kl
 
 ---
 
