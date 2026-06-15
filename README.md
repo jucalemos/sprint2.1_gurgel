@@ -106,14 +106,16 @@ Além disso, o gerenciamento inteligente da distribuição energética contribui
 * Incentivo ao uso de fontes limpas
 * Apoio ao crescimento da mobilidade elétrica sustentável
 
----
+## Inteligência Artificial Utilizada
 
-## Como Executar
+A inteligência artificial da Gurgel foi simulada através de regras de decisão.
 
-1. Abra o projeto no PyCharm.
-2. Execute o arquivo `main.py`.
-3. O sistema irá gerar automaticamente um cenário de operação.
-4. Os resultados serão exibidos diretamente no terminal.
+O sistema analisa automaticamente o nível de bateria dos veículos conectados e identifica qual possui maior necessidade de carregamento.
+
+Com base nessa análise, a plataforma define prioridades e distribui a energia disponível de forma mais eficiente.
+
+Embora seja uma prova de conceito, essa abordagem demonstra como técnicas simples de tomada de decisão podem ser aplicadas ao gerenciamento inteligente de eletropostos.
+
 
 ---
 
@@ -132,3 +134,34 @@ Essa evolução permitiu validar tecnicamente a proposta e comprovar sua viabili
 A Gurgel demonstra como conceitos de automação, inteligência artificial e energias renováveis podem ser utilizados para desenvolver soluções mais eficientes para o gerenciamento energético de eletropostos.
 
 O projeto representa uma prova de conceito funcional e um primeiro passo para aplicações mais avançadas voltadas à mobilidade elétrica sustentável.
+
+---
+
+## Demonstração do Projeto
+
+### Vídeo de Apresentação
+
+------------LINK DO VÍDEO----------------
+
+### Slides da Apresentação
+
+(https://canva.link/085hc6r3zxnjtu9)
+
+---
+
+## Repositório
+
+GitHub do projeto:
+
+(https://github.com/jucalemos/sprint2.1_gurgel.git)
+
+
+---
+
+## Como Executar
+
+1. Abra o projeto no PyCharm.
+2. Execute o arquivo `main.py`.
+3. O sistema irá gerar automaticamente um cenário de operação.
+4. Os resultados serão exibidos diretamente no terminal.
+
