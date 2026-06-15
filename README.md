@@ -145,7 +145,13 @@ O projeto representa uma prova de conceito funcional e um primeiro passo para ap
 
 ### Slides da Apresentação
 
-(https://canva.link/085hc6r3zxnjtu9)
+https://canva.link/085hc6r3zxnjtu9
+
+---
+
+### Kanban de organização
+
+https://trello.com/invite/b/69e017199b63551c0ab1d73a/ATTI0eedf610ca70dc2e390796d26150040aC6F549C7/gurgel
 
 ---
 
@@ -153,7 +159,7 @@ O projeto representa uma prova de conceito funcional e um primeiro passo para ap
 
 GitHub do projeto:
 
-(https://github.com/jucalemos/sprint2.1_gurgel.git)
+https://github.com/jucalemos/sprint2.1_gurgel.git
 
 
 ---
