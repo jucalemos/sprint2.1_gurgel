@@ -126,26 +126,3 @@ economia = energia * 0.4
 print("\nImpacto Sustentável")
 print("Energia renovável utilizada:", energia, "kW")
 print("Economia estimada:", economia, "kg de CO2")
-
-
-def gerar_energia():
-    pass
-
-def analisar_carros():
-    pass
-
-def distribuir_energia():
-    pass
-
-def calcular_tarifa():
-    pass
-
-def relatorio():
-    pass
-
-
-gerar_energia()
-analisar_carros()
-distribuir_energia()
-calcular_tarifa()
-relatorio()
