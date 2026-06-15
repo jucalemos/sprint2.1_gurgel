@@ -75,7 +75,7 @@ Distribuição de Potência
 Relatório e Monitoramento
 ```
 
-![Fluxo Visual do Sistema]
+![Fluxo Visual do Sistema](Fluxo_Visual_do_Sistema.png)
 
 ## Fluxo de Funcionamento
 
