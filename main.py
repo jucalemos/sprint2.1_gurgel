@@ -1,9 +1,9 @@
 import random
 
-print("=" * 50)
+print("==================================================")
 print("GURGEL")
 print("Sistema Inteligente para Eletropostos")
-print("=" * 50)
+print("==================================================")
 
 # Energia solar simulada
 
