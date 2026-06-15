@@ -95,6 +95,14 @@ Relatório e Monitoramento
 
 ---
 
+## Interoperabilidade
+
+A solução foi projetada para possibilitar integração futura com diferentes eletropostos, sistemas de pagamento e plataformas de monitoramento energético.
+
+A arquitetura permite que informações de veículos, energia disponível e tarifação sejam compartilhadas entre diferentes sistemas, favorecendo a expansão da rede de carregamento inteligente.
+
+---
+
 ## Sustentabilidade
 
 A solução utiliza uma simulação de geração solar para representar o uso de fontes renováveis de energia.
